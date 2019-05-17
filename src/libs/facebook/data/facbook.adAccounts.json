@@ -1,0 +1,834 @@
+[{
+        "name": "USATODAY",
+        "account_id": "10153016735285667",
+        "id": "act_10153016735285667",
+        "insights_include": true,
+        "displayName": "USATODAY"
+    },
+    {
+        "name": "PHX- Circulation (CMS)",
+        "account_id": "10153470454570667",
+        "id": "act_10153470454570667",
+        "insights_include": true,
+        "displayName": "PHX- Circulation CMS"
+    },
+    {
+        "name": "Asbury Park Ad Account",
+        "account_id": "10153683404035667",
+        "id": "act_10153683404035667",
+        "insights_include": true,
+        "displayName": "Asbury Park "
+    },
+    {
+        "name": "Westchester Ad Account",
+        "account_id": "10153683405700667",
+        "id": "act_10153683405700667",
+        "insights_include": true,
+        "displayName": "Westchester "
+    },
+    {
+        "name": "Rochester Ad Account",
+        "account_id": "10153683404945667",
+        "id": "act_10153683404945667",
+        "insights_include": true,
+        "displayName": "Rochester "
+    },
+    {
+        "name": "Wilmington Ad Account",
+        "account_id": "10153683406270667",
+        "id": "act_10153683406270667",
+        "insights_include": true,
+        "displayName": "Wilmington "
+    },
+    {
+        "name": "Des Moines Ad Account",
+        "account_id": "10153912340720667",
+        "id": "act_10153912340720667",
+        "insights_include": true,
+        "displayName": "Des Moines "
+    },
+    {
+        "name": "Cherry Hill Ad Account",
+        "account_id": "10153912339955667",
+        "id": "act_10153912339955667",
+        "insights_include": true,
+        "displayName": "Cherry Hill "
+    },
+    {
+        "name": "Salisbury Ad Account",
+        "account_id": "10153912360370667",
+        "id": "act_10153912360370667",
+        "insights_include": true,
+        "displayName": "Salisbury "
+    },
+    {
+        "name": "Staunton Ad Account",
+        "account_id": "10153912361055667",
+        "id": "act_10153912361055667",
+        "insights_include": true,
+        "displayName": "Staunton "
+    },
+    {
+        "name": "Nashville Ad Account",
+        "account_id": "10153912361755667",
+        "id": "act_10153912361755667",
+        "insights_include": true,
+        "displayName": "Nashville "
+    },
+    {
+        "name": "Greenville Ad Account",
+        "account_id": "10153912352835667",
+        "id": "act_10153912352835667",
+        "insights_include": true,
+        "displayName": "Greenville "
+    },
+    {
+        "name": "Cincinnati Ad Account",
+        "account_id": "10153912364280667",
+        "id": "act_10153912364280667",
+        "insights_include": true,
+        "displayName": "Cincinnati "
+    },
+    {
+        "name": "Fort Collins Ad Account",
+        "account_id": "10153912349165667",
+        "id": "act_10153912349165667",
+        "insights_include": true,
+        "displayName": "Fort Collins "
+    },
+    {
+        "name": "Pensacola Ad Account",
+        "account_id": "10153912359530667",
+        "id": "act_10153912359530667",
+        "insights_include": true,
+        "displayName": "Pensacola "
+    },
+    {
+        "name": "Indy Ad Account",
+        "account_id": "10153912358700667",
+        "id": "act_10153912358700667",
+        "insights_include": true,
+        "displayName": "Indy "
+    },
+    {
+        "name": "Reno Ad Account",
+        "account_id": "10153912365250667",
+        "id": "act_10153912365250667",
+        "insights_include": true,
+        "displayName": "Reno "
+    },
+    {
+        "name": "Salinas Ad Account",
+        "account_id": "10153912368170667",
+        "id": "act_10153912368170667",
+        "insights_include": true,
+        "displayName": "Salinas "
+    },
+    {
+        "name": "Brevard Ad Account",
+        "account_id": "10153912339070667",
+        "id": "act_10153912339070667",
+        "insights_include": true,
+        "displayName": "Brevard "
+    },
+    {
+        "name": "Salem Ad Account",
+        "account_id": "10153912366180667",
+        "id": "act_10153912366180667",
+        "insights_include": true,
+        "displayName": "Salem "
+    },
+    {
+        "name": "Green Bay Ad Account",
+        "account_id": "10153912362755667",
+        "id": "act_10153912362755667",
+        "insights_include": true,
+        "displayName": "Green Bay "
+    },
+    {
+        "name": "Monroe Ad Account",
+        "account_id": "10154131558045667",
+        "id": "act_10154131558045667",
+        "insights_include": true,
+        "displayName": "Monroe "
+    },
+    {
+        "name": "Deming Ad Account",
+        "account_id": "10154131461700667",
+        "id": "act_10154131461700667",
+        "insights_include": true,
+        "displayName": "Deming "
+    },
+    {
+        "name": "Silver City Ad Account",
+        "account_id": "10154131545665667",
+        "id": "act_10154131545665667",
+        "insights_include": true,
+        "displayName": "Silver City "
+    },
+    {
+        "name": "St. George Ad Account",
+        "account_id": "10154131548415667",
+        "id": "act_10154131548415667",
+        "insights_include": true,
+        "displayName": "St. George "
+    },
+    {
+        "name": "Naples Ad Account",
+        "account_id": "10154163059950667",
+        "id": "act_10154163059950667",
+        "insights_include": true,
+        "displayName": "Naples "
+    },
+    {
+        "name": "Fond du Lac Ad Account",
+        "account_id": "10154131483275667",
+        "id": "act_10154131483275667",
+        "insights_include": true,
+        "displayName": "Fond du Lac "
+    },
+    {
+        "name": "Clarksville Ad Account",
+        "account_id": "10154131511815667",
+        "id": "act_10154131511815667",
+        "insights_include": true,
+        "displayName": "Clarksville "
+    },
+    {
+        "name": "Wausau Ad Account",
+        "account_id": "10154131565705667",
+        "id": "act_10154131565705667",
+        "insights_include": true,
+        "displayName": "Wausau "
+    },
+    {
+        "name": "Bucyrus Ad Account",
+        "account_id": "10154131405165667",
+        "id": "act_10154131405165667",
+        "insights_include": true,
+        "displayName": "Bucyrus "
+    },
+    {
+        "name": "Lafayette (IN) Ad Account",
+        "account_id": "10154131499975667",
+        "id": "act_10154131499975667",
+        "insights_include": true,
+        "displayName": "Lafayette IN "
+    },
+    {
+        "name": "Yorkblog Ad Account",
+        "account_id": "10154131567560667",
+        "id": "act_10154131567560667",
+        "insights_include": true,
+        "displayName": "Yorkblog "
+    },
+    {
+        "name": "Knoxville Ad Account",
+        "account_id": "10154163058630667",
+        "id": "act_10154163058630667",
+        "insights_include": true,
+        "displayName": "Knoxville "
+    },
+    {
+        "name": "Ithaca Ad Account",
+        "account_id": "10154131493585667",
+        "id": "act_10154131493585667",
+        "insights_include": true,
+        "displayName": "Ithaca "
+    },
+    {
+        "name": "Murfreesboro Ad Account",
+        "account_id": "10154131451275667",
+        "id": "act_10154131451275667",
+        "insights_include": true,
+        "displayName": "Murfreesboro "
+    },
+    {
+        "name": "Marshfield  Ad Account",
+        "account_id": "10154131518135667",
+        "id": "act_10154131518135667",
+        "insights_include": true,
+        "displayName": "Marshfield  "
+    },
+    {
+        "name": "DM Juice Ad Account",
+        "account_id": "10154131502900667",
+        "id": "act_10154131502900667",
+        "insights_include": true,
+        "displayName": "DM Juice "
+    },
+    {
+        "name": "Hattiesburg Ad Account",
+        "account_id": "10154131488260667",
+        "id": "act_10154131488260667",
+        "insights_include": true,
+        "displayName": "Hattiesburg "
+    },
+    {
+        "name": "Lebanon Ad Account",
+        "account_id": "10154131513320667",
+        "id": "act_10154131513320667",
+        "insights_include": true,
+        "displayName": "Lebanon "
+    },
+    {
+        "name": "Las Cruces Ad Account",
+        "account_id": "10154131509825667",
+        "id": "act_10154131509825667",
+        "insights_include": true,
+        "displayName": "Las Cruces "
+    },
+    {
+        "name": "York (Dispatch) Ad Account",
+        "account_id": "10154131570795667",
+        "id": "act_10154131570795667",
+        "insights_include": true,
+        "displayName": "York Dispatch "
+    },
+    {
+        "name": "Elmira Ad Account",
+        "account_id": "10154131550710667",
+        "id": "act_10154131550710667",
+        "insights_include": true,
+        "displayName": "Elmira "
+    },
+    {
+        "name": "Sioux Falls Ad Account",
+        "account_id": "10154131388230667",
+        "id": "act_10154131388230667",
+        "insights_include": true,
+        "displayName": "Sioux Falls "
+    },
+    {
+        "name": "Coshocton Ad Account",
+        "account_id": "10154131431440667",
+        "id": "act_10154131431440667",
+        "insights_include": true,
+        "displayName": "Coshocton "
+    },
+    {
+        "name": "Vineland Ad Account",
+        "account_id": "10154131446365667",
+        "id": "act_10154131446365667",
+        "insights_include": true,
+        "displayName": "Vineland "
+    },
+    {
+        "name": "Osh Kosh Ad Account",
+        "account_id": "10154131529485667",
+        "id": "act_10154131529485667",
+        "insights_include": true,
+        "displayName": "Osh Kosh "
+    },
+    {
+        "name": "Bremerton Ad Account",
+        "account_id": "10154163063745667",
+        "id": "act_10154163063745667",
+        "insights_include": true,
+        "displayName": "Bremerton "
+    },
+    {
+        "name": "Evansville Ad Account",
+        "account_id": "10154163055545667",
+        "id": "act_10154163055545667",
+        "insights_include": true,
+        "displayName": "Evansville "
+    },
+    {
+        "name": "Springfield Ad Account",
+        "account_id": "10154131525720667",
+        "id": "act_10154131525720667",
+        "insights_include": true,
+        "displayName": "Springfield "
+    },
+    {
+        "name": "Wisconsin Rapids Ad Account",
+        "account_id": "10154131566455667",
+        "id": "act_10154131566455667",
+        "insights_include": true,
+        "displayName": "Wisconsin Rapids "
+    },
+    {
+        "name": "Stevens Point Ad Account",
+        "account_id": "10154131553270667",
+        "id": "act_10154131553270667",
+        "insights_include": true,
+        "displayName": "Stevens Point "
+    },
+    {
+        "name": "Opelousas Ad Account",
+        "account_id": "10154131455805667",
+        "id": "act_10154131455805667",
+        "insights_include": true,
+        "displayName": "Opelousas "
+    },
+    {
+        "name": "Corpus Christi Ad Account",
+        "account_id": "10154163065575667",
+        "id": "act_10154163065575667",
+        "insights_include": true,
+        "displayName": "Corpus Christi "
+    },
+    {
+        "name": "San Angelo Ad Account",
+        "account_id": "10154163064320667",
+        "id": "act_10154163064320667",
+        "insights_include": true,
+        "displayName": "San Angelo "
+    },
+    {
+        "name": "Jackson (TN) Ad Account",
+        "account_id": "10154131496650667",
+        "id": "act_10154131496650667",
+        "insights_include": true,
+        "displayName": "Jackson TN "
+    },
+    {
+        "name": "Burlington Ad Account",
+        "account_id": "10154131407340667",
+        "id": "act_10154131407340667",
+        "insights_include": true,
+        "displayName": "Burlington "
+    },
+    {
+        "name": "Alamogordo Ad Account",
+        "account_id": "10154131394560667",
+        "id": "act_10154131394560667",
+        "insights_include": true,
+        "displayName": "Alamogordo "
+    },
+    {
+        "name": "Detroit (News) Ad Account",
+        "account_id": "10154131467910667",
+        "id": "act_10154131467910667",
+        "insights_include": true,
+        "displayName": "Detroit News "
+    },
+    {
+        "name": "Marion Ad Account",
+        "account_id": "10154131516875667",
+        "id": "act_10154131516875667",
+        "insights_include": true,
+        "displayName": "Marion "
+    },
+    {
+        "name": "Ruidoso Ad Account",
+        "account_id": "10154131540435667",
+        "id": "act_10154131540435667",
+        "insights_include": true,
+        "displayName": "Ruidoso "
+    },
+    {
+        "name": "Memphis Ad Account",
+        "account_id": "10154163057475667",
+        "id": "act_10154163057475667",
+        "insights_include": true,
+        "displayName": "Memphis "
+    },
+    {
+        "name": "Morristown Ad Account",
+        "account_id": "10154131453430667",
+        "id": "act_10154131453430667",
+        "insights_include": true,
+        "displayName": "Morristown "
+    },
+    {
+        "name": "Detroit (Freep) Ad Account",
+        "account_id": "10154131466275667",
+        "id": "act_10154131466275667",
+        "insights_include": true,
+        "displayName": "Detroit Freep "
+    },
+    {
+        "name": "Alexandria Ad Account",
+        "account_id": "10154131558670667",
+        "id": "act_10154131558670667",
+        "insights_include": true,
+        "displayName": "Alexandria "
+    },
+    {
+        "name": "Chambersburg Ad Account",
+        "account_id": "10154131539190667",
+        "id": "act_10154131539190667",
+        "insights_include": true,
+        "displayName": "Chambersburg "
+    },
+    {
+        "name": "Manitowoc Ad Account",
+        "account_id": "10154131490205667",
+        "id": "act_10154131490205667",
+        "insights_include": true,
+        "displayName": "Manitowoc "
+    },
+    {
+        "name": "Appleton Ad Account",
+        "account_id": "10154131535750667",
+        "id": "act_10154131535750667",
+        "insights_include": true,
+        "displayName": "Appleton "
+    },
+    {
+        "name": "Newark Ad Account",
+        "account_id": "10154131523180667",
+        "id": "act_10154131523180667",
+        "insights_include": true,
+        "displayName": "Newark "
+    },
+    {
+        "name": "In York Ad Account",
+        "account_id": "10154131492220667",
+        "id": "act_10154131492220667",
+        "insights_include": true,
+        "displayName": "In York "
+    },
+    {
+        "name": "Henderson Ad Account",
+        "account_id": "10154163055975667",
+        "id": "act_10154163055975667",
+        "insights_include": true,
+        "displayName": "Henderson "
+    },
+    {
+        "name": "Fremont Ad Account",
+        "account_id": "10154131528735667",
+        "id": "act_10154131528735667",
+        "insights_include": true,
+        "displayName": "Fremont "
+    },
+    {
+        "name": "Camarillo Ad Account",
+        "account_id": "10154163066745667",
+        "id": "act_10154163066745667",
+        "insights_include": true,
+        "displayName": "Camarillo "
+    },
+    {
+        "name": "Binghamton Ad Account",
+        "account_id": "10154131537200667",
+        "id": "act_10154131537200667",
+        "insights_include": true,
+        "displayName": "Binghamton "
+    },
+    {
+        "name": "Port Huron Ad Account",
+        "account_id": "10154131560640667",
+        "id": "act_10154131560640667",
+        "insights_include": true,
+        "displayName": "Port Huron "
+    },
+    {
+        "name": "Lansing Ad Account",
+        "account_id": "10154131507960667",
+        "id": "act_10154131507960667",
+        "insights_include": true,
+        "displayName": "Lansing "
+    },
+    {
+        "name": "Hanover Ad Account",
+        "account_id": "10154131477670667",
+        "id": "act_10154131477670667",
+        "insights_include": true,
+        "displayName": "Hanover "
+    },
+    {
+        "name": "Mountain Home (Baxter) Ad Account",
+        "account_id": "10154131402570667",
+        "id": "act_10154131402570667",
+        "insights_include": true,
+        "displayName": "Mountain Home Baxter "
+    },
+    {
+        "name": "Great Falls Ad Account",
+        "account_id": "10154131486100667",
+        "id": "act_10154131486100667",
+        "insights_include": true,
+        "displayName": "Great Falls "
+    },
+    {
+        "name": "Fort Myers Ad Account",
+        "account_id": "10154131527200667",
+        "id": "act_10154131527200667",
+        "insights_include": true,
+        "displayName": "Fort Myers "
+    },
+    {
+        "name": "Jackson MS Ad Account",
+        "account_id": "10154131428900667",
+        "id": "act_10154131428900667",
+        "insights_include": true,
+        "displayName": "Jackson MS "
+    },
+    {
+        "name": "Richmond (IN) Ad Account",
+        "account_id": "10154131533925667",
+        "id": "act_10154131533925667",
+        "insights_include": true,
+        "displayName": "Richmond IN "
+    },
+    {
+        "name": "Chillicothe Ad Account",
+        "account_id": "10154131413875667",
+        "id": "act_10154131413875667",
+        "insights_include": true,
+        "displayName": "Chillicothe "
+    },
+    {
+        "name": "Poughkeepsie Ad Account",
+        "account_id": "10154131536220667",
+        "id": "act_10154131536220667",
+        "insights_include": true,
+        "displayName": "Poughkeepsie "
+    },
+    {
+        "name": "Sheboygan Ad Account",
+        "account_id": "10154131543755667",
+        "id": "act_10154131543755667",
+        "insights_include": true,
+        "displayName": "Sheboygan "
+    },
+    {
+        "name": "York (DR) Ad Account",
+        "account_id": "10154131566985667",
+        "id": "act_10154131566985667",
+        "insights_include": true,
+        "displayName": "York DR "
+    },
+    {
+        "name": "Tallahassee Ad Account",
+        "account_id": "10154131554750667",
+        "id": "act_10154131554750667",
+        "insights_include": true,
+        "displayName": "Tallahassee "
+    },
+    {
+        "name": "Farmington Ad Account",
+        "account_id": "10154131480640667",
+        "id": "act_10154131480640667",
+        "insights_include": true,
+        "displayName": "Farmington "
+    },
+    {
+        "name": "Lancaster Ad Account",
+        "account_id": "10154131506995667",
+        "id": "act_10154131506995667",
+        "insights_include": true,
+        "displayName": "Lancaster "
+    },
+    {
+        "name": "Redding Ad Account",
+        "account_id": "10154163056950667",
+        "id": "act_10154163056950667",
+        "insights_include": true,
+        "displayName": "Redding "
+    },
+    {
+        "name": "Stuart Ad Account",
+        "account_id": "10154163062810667",
+        "id": "act_10154163062810667",
+        "insights_include": true,
+        "displayName": "Stuart "
+    },
+    {
+        "name": "Shreveport Ad Account",
+        "account_id": "10154131544865667",
+        "id": "act_10154131544865667",
+        "insights_include": true,
+        "displayName": "Shreveport "
+    },
+    {
+        "name": "Muncie Ad Account",
+        "account_id": "10154131549710667",
+        "id": "act_10154131549710667",
+        "insights_include": true,
+        "displayName": "Muncie "
+    },
+    {
+        "name": "Milwaukee Ad Account",
+        "account_id": "10154163053060667",
+        "id": "act_10154163053060667",
+        "insights_include": true,
+        "displayName": "Milwaukee "
+    },
+    {
+        "name": "mycentraljersey Ad Account",
+        "account_id": "10154131521860667",
+        "id": "act_10154131521860667",
+        "insights_include": true,
+        "displayName": "mycentraljersey "
+    },
+    {
+        "name": "Lafayette (LA) Ad Account",
+        "account_id": "10154131505250667",
+        "id": "act_10154131505250667",
+        "insights_include": true,
+        "displayName": "Lafayette LA "
+    },
+    {
+        "name": "Port Clinton Ad Account",
+        "account_id": "10154131535145667",
+        "id": "act_10154131535145667",
+        "insights_include": true,
+        "displayName": "Port Clinton "
+    },
+    {
+        "name": "Wichita Falls Ad Account",
+        "account_id": "10154163064885667",
+        "id": "act_10154163064885667",
+        "insights_include": true,
+        "displayName": "Wichita Falls "
+    },
+    {
+        "name": "Battle Creek Ad Account",
+        "account_id": "10154131398930667",
+        "id": "act_10154131398930667",
+        "insights_include": true,
+        "displayName": "Battle Creek "
+    },
+    {
+        "name": "El Paso (Times) Ad Account",
+        "account_id": "10154131470325667",
+        "id": "act_10154131470325667",
+        "insights_include": true,
+        "displayName": "El Paso Times "
+    },
+    {
+        "name": "St Cloud Ad Account",
+        "account_id": "10154131542195667",
+        "id": "act_10154131542195667",
+        "insights_include": true,
+        "displayName": "St Cloud "
+    },
+    {
+        "name": "Zanesville Ad Account",
+        "account_id": "10154131561390667",
+        "id": "act_10154131561390667",
+        "insights_include": true,
+        "displayName": "Zanesville "
+    },
+    {
+        "name": "PackersNews Ad Account",
+        "account_id": "10154131532485667",
+        "id": "act_10154131532485667",
+        "insights_include": true,
+        "displayName": "PackersNews "
+    },
+    {
+        "name": "Visalia Ad Account",
+        "account_id": "10154131564215667",
+        "id": "act_10154131564215667",
+        "insights_include": true,
+        "displayName": "Visalia "
+    },
+    {
+        "name": "Abilene Ad Account",
+        "account_id": "10154163066050667",
+        "id": "act_10154163066050667",
+        "insights_include": true,
+        "displayName": "Abilene "
+    },
+    {
+        "name": "Livingston Ad Account",
+        "account_id": "10154131514470667",
+        "id": "act_10154131514470667",
+        "insights_include": true,
+        "displayName": "Livingston "
+    },
+    {
+        "name": "Asheville Ad Account",
+        "account_id": "10154131425240667",
+        "id": "act_10154131425240667",
+        "insights_include": true,
+        "displayName": "Asheville "
+    },
+    {
+        "name": "Mansfield Ad Account",
+        "account_id": "10154131516025667",
+        "id": "act_10154131516025667",
+        "insights_include": true,
+        "displayName": "Mansfield "
+    },
+    {
+        "name": "Montgomery Ad Account",
+        "account_id": "10154131519365667",
+        "id": "act_10154131519365667",
+        "insights_include": true,
+        "displayName": "Montgomery "
+    },
+    {
+        "name": "Palm Springs Ad Account",
+        "account_id": "10154131556795667",
+        "id": "act_10154131556795667",
+        "insights_include": true,
+        "displayName": "Palm Springs "
+    },
+    {
+        "name": "louisville Ad Account",
+        "account_id": "10154556580675667",
+        "id": "act_10154556580675667",
+        "insights_include": true,
+        "displayName": "louisville "
+    },
+    {
+        "name": "Carlsbad Ad Account",
+        "account_id": "10154131437690667",
+        "id": "act_10154131437690667",
+        "insights_include": true,
+        "displayName": "Carlsbad "
+    },
+    {
+        "name": "Anderson Ad Account",
+        "account_id": "10154163054295667",
+        "id": "act_10154163054295667",
+        "insights_include": true,
+        "displayName": "Anderson "
+    },
+    {
+        "name": "Vero Beach Ad Account",
+        "account_id": "10154163061540667",
+        "id": "act_10154163061540667",
+        "insights_include": true,
+        "displayName": "Vero Beach "
+    },
+    {
+        "name": "Keith Cms Powers",
+        "account_id": "102022297099572",
+        "id": "act_102022297099572",
+        "insights_include": true,
+        "displayName": "Keith Cms Powers"
+    },
+    {
+        "name": "Bergen Ad Account",
+        "account_id": "10155769532910667",
+        "id": "act_10155769532910667",
+        "insights_include": true,
+        "displayName": "Bergen "
+    },
+    {
+        "name": "Treasure Coast Ad Account",
+        "account_id": "184661522188132",
+        "id": "act_184661522188132",
+        "insights_include": true,
+        "displayName": "Treasure Coast "
+    },
+    {
+        "name": "Golfweek Ad Account",
+        "account_id": "1604045413024333",
+        "id": "act_1604045413024333",
+        "insights_include": true,
+        "displayName": "Golfweek "
+    },
+    {
+        "name": "Ventura Ad Account",
+        "account_id": "231057014318717",
+        "id": "act_231057014318717",
+        "insights_include": true,
+        "displayName": "Ventura "
+    },
+    {
+        "name": "Tallahassee Ad Account 2018",
+        "account_id": "468496563566695",
+        "id": "act_468496563566695",
+        "insights_include": true,
+        "displayName": "Tallahassee  2018"
+    }
+]
